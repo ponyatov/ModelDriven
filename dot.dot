@@ -1,0 +1,8 @@
+digraph {
+    rankdir=LR;
+domain [label="domain\nmodel"];
+target [label="target\nlanguage"];
+domain -> target [label="model compilation\n(translation)"];
+}
+
+
