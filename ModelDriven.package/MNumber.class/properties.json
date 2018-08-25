@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/26/2018 03:40",
+	"super" : "MPrimitive",
+	"category" : "ModelDriven",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MNumber",
+	"type" : "normal"
+}
