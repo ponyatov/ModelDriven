@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/26/2018 03:35",
+	"super" : "Object",
+	"category" : "ModelDriven",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"type",
+		"value",
+		"attr",
+		"nest"
+	],
+	"name" : "MObject",
+	"type" : "normal"
+}
