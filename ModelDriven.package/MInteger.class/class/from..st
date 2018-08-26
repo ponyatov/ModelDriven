@@ -1,3 +1,3 @@
-instance creation
-from: V
-	^ MInteger new initialize: V
+as yet unclassified
+from: anInteger
+	^ MInteger new initialize: anInteger
