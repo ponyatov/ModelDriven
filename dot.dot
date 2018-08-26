@@ -1,7 +1,17 @@
 digraph G {
 rankdir = LR;
-MObject -> MMeta -> MModule;
-MMeta -> MLanguage;
+MC89 -> C89type -> C89int;
+C89type -> C89float;
+}
+
+digraph G {
+rankdir = LR;
+MLanguage -> MC89 -> MCpp;
+}
+
+digraph G {
+rankdir = LR;
+MLanguage -> MC89 -> MCpp;
 }
 
 digraph G {
