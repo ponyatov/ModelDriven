@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/25/2018 21:31",
+	"super" : "MMeta",
+	"category" : "ModelDriven-Meta",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MLanguage",
+	"type" : "normal"
+}

@@ -1,1 +1,1 @@
-FIFO queue
+FIDO buffer

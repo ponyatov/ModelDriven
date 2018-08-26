@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/25/2018 21:29",
+	"super" : "MMeta",
+	"category" : "ModelDriven-Meta",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MModule",
+	"type" : "normal"
+}

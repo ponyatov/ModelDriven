@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/25/2018 21:36",
+	"super" : "MClike",
+	"category" : "ModelDriven-Java",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MJava",
+	"type" : "normal"
+}

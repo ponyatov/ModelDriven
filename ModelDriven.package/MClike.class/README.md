@@ -1,0 +1,1 @@
+Languages shares some C-like syntax/semantics

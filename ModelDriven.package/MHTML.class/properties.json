@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/25/2018 21:39",
+	"super" : "MXML",
+	"category" : "ModelDriven-JS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MHTML",
+	"type" : "normal"
+}

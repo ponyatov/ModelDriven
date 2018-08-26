@@ -1,7 +1,10 @@
-generic Object
+Object
 
-type	class tag
+type	class/type tag
+
 value	single primitive value
-attr		object slots (methods/field)
-		isolated from Smalltalk system
-nest		nested values (ordered)
+
+attr		object slots (methods/fields)
+		isolated from Smalltalk model
+
+nest		nested elements (ordered)

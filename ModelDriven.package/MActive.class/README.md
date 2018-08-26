@@ -1,1 +1,1 @@
-Objects has executable semantics
+Objects have execution semantics

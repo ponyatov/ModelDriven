@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/25/2018 21:40",
+	"super" : "MLanguage",
+	"category" : "ModelDriven-JS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MSVG",
+	"type" : "normal"
+}

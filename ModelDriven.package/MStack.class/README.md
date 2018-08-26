@@ -1,1 +1,1 @@
-LIFO stack
+LIFO Stack
