@@ -1,1 +1,1 @@
-Software component
+software Module

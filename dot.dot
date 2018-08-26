@@ -1,22 +1,22 @@
 digraph G {
-
 rankdir = LR;
-    
-Object -> MActive -> MFunction;
-MActive -> MOperator;
-MActive -> MContext;
-
+MObject -> MMeta -> MModule;
+MMeta -> MLanguage;
 }
 
 digraph G {
-
 rankdir = LR;
-    
-Object -> MContainer -> MStack;
+MObject -> MActive -> MFunction;
+MActive -> MOperator;
+MActive -> MContext;
+}
+
+digraph G {
+rankdir = LR;
+MObject -> MContainer -> MStack;
 MContainer -> MVector;
 MContainer -> MMap;
 MContainer -> MQueue;
-
 }
 
 
