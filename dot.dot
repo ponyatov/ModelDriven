@@ -1,3 +1,35 @@
+digraph G {
+rankdir = LR;
+MC89 -> C89type -> C89int;
+C89type -> C89float;
+}
+
+digraph G {
+rankdir = LR;
+MLanguage -> MC89 -> MCpp;
+}
+
+digraph G {
+rankdir = LR;
+MLanguage -> MC89 -> MCpp;
+}
+
+digraph G {
+rankdir = LR;
+MObject -> MActive -> MFunction;
+MActive -> MOperator;
+MActive -> MContext;
+}
+
+digraph G {
+rankdir = LR;
+MObject -> MContainer -> MStack;
+MContainer -> MVector;
+MContainer -> MMap;
+MContainer -> MQueue;
+}
+
+
 digraph {
     rankdir=LR;
 domain [label="domain\nmodel"];

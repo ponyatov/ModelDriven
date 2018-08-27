@@ -1,4 +1,4 @@
-Primitives
+machine/target language primitive
 
-can be implemented at harwdare level
-or target programming language
+	can be implemented at hardware level
+	or in implemented in target language

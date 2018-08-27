@@ -1,2 +1,5 @@
-execution context
-(program, stack, resources, lookup tables)
+Object contains execution context:
+
+stack
+associated program
+allocated resources

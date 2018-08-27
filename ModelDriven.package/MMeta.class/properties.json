@@ -1,7 +1,7 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/26/2018 03:38",
+	"commentStamp" : "DmitryPonyatov 8/26/2018 12:23",
 	"super" : "MObject",
-	"category" : "ModelDriven",
+	"category" : "ModelDriven-Meta",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

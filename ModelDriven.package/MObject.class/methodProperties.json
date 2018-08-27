@@ -1,4 +1,19 @@
 {
-	"instance" : { },
-	"class" : { }
+	"instance" : {
+		"asString" : "DmitryPonyatov 8/26/2018 11:21",
+		"dump:" : "DmitryPonyatov 8/26/2018 12:15",
+		"initialize" : "DmitryPonyatov 8/27/2018 16:45",
+		"push:" : "DmitryPonyatov 8/26/2018 11:30",
+		"initialize:" : "DmitryPonyatov 8/27/2018 16:57",
+		"dump" : "DmitryPonyatov 8/26/2018 12:13",
+		"pad:" : "DmitryPonyatov 8/26/2018 12:13",
+		"head" : "DmitryPonyatov 8/26/2018 11:22",
+		"printString" : "DmitryPonyatov 8/26/2018 12:06"
+	},
+	"class" : {
+		"pool:" : "DmitryPonyatov 8/27/2018 17:21",
+		"install" : "DmitryPonyatov 8/27/2018 16:49",
+		"pool" : "DmitryPonyatov 8/27/2018 16:44",
+		"from:" : "DmitryPonyatov 8/27/2018 16:24"
+	}
 }

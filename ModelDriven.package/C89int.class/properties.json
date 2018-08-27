@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/26/2018 13:06",
+	"super" : "C89type",
+	"category" : "ModelDriven-C89",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "C89int",
+	"type" : "normal"
+}

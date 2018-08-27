@@ -1,1 +1,1 @@
-Generic number
+Number
