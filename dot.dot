@@ -1,8 +1,20 @@
 digraph {
     rankdir=LR;
 domain [label="domain\nmodel"];
-target [label="target\nlanguage"];
+target [label="target\nlanguage",shape=box];
 domain -> target [label="model compilation\n(translation)"];
+}
+
+digraph {
+    rankdir=LR;
+Object -> MObject [label="subclass"];
+}
+
+digraph {
+    rankdir=LR;
+MObject -> MPrimitive -> MNumber -> MInteger;
+MPrimitive -> MString;
+MPrimitive -> MSymbol;
 }
 
 
