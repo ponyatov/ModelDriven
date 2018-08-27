@@ -1,4 +1,4 @@
 initialization
-initialize: V 
+initialize: anyObject
 	self initialize.
-	value := V asString.
+	value := anyObject.

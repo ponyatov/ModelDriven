@@ -1,8 +1,10 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/24/2018 19:59",
+	"commentStamp" : "DmitryPonyatov 8/27/2018 16:23",
 	"super" : "Object",
 	"category" : "ModelDriven",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"pool"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [

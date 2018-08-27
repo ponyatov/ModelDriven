@@ -5,3 +5,4 @@ initialize
 	type := s copyFrom: 2 to: s size.
 	attr := Dictionary new.
 	nest := OrderedCollection new.
+	MObject pool add: self.
