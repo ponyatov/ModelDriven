@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/27/2018 07:48",
+	"super" : "MLanguage",
+	"category" : "ModelDriven-JS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MCSS",
+	"type" : "normal"
+}
