@@ -1,4 +1,6 @@
 {
-	"instance" : { },
+	"instance" : {
+		"initialize:" : "DmitryPonyatov 8/28/2018 17:24"
+	},
 	"class" : { }
 }

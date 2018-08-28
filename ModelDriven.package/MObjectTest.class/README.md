@@ -1,1 +1,1 @@
-test MObject core
+MObject tests

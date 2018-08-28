@@ -1,4 +1,9 @@
-machine/target language primitive
+Primitive object
 
-	can be implemented at hardware level
-	or in implemented in target language
+primitives can be implemented
+примитивы могут быть реализованы
+- at a hardware-level (CPU/FPGA)
+  на аппаратном уровне
+- using target programming language basic types
+  используя базовые типы целевого языка 
+  программирования

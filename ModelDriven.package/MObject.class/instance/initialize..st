@@ -1,4 +1,4 @@
 initialization
 initialize: anyObject
-	self initialize.
-	value := anyObject.
+	self initialize .
+	val := anyObject asString

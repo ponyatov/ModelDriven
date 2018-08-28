@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/28/2018 15:19",
+	"commentStamp" : "DmitryPonyatov 8/28/2018 14:33",
 	"super" : "MPrimitive",
 	"category" : "ModelDriven",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "MSymbol",
+	"name" : "MPointer",
 	"type" : "normal"
 }

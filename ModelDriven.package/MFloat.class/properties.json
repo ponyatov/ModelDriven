@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/28/2018 15:19",
-	"super" : "MPrimitive",
+	"commentStamp" : "DmitryPonyatov 8/28/2018 14:53",
+	"super" : "MNumber",
 	"category" : "ModelDriven",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "MSymbol",
+	"name" : "MFloat",
 	"type" : "normal"
 }

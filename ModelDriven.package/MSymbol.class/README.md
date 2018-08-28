@@ -1,4 +1,4 @@
 Symbol
 
-represent unical named objects
-	like variables, constants etc
+symbol is an object names variable, constant, type,...
+симолы именуют переменные константы и т.п.

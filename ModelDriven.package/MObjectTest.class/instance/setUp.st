@@ -1,3 +1,3 @@
 initialization
 setUp
-	MObject install
+	super setUp 

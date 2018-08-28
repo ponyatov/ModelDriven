@@ -1,7 +1,7 @@
 {
-	"commentStamp" : "DmitryPonyatov 8/27/2018 17:02",
+	"commentStamp" : "DmitryPonyatov 8/28/2018 16:54",
 	"super" : "TestCase",
-	"category" : "ModelDriven-Tests",
+	"category" : "ModelDriven-Test",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

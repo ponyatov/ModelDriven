@@ -1,3 +1,3 @@
 instance creation
-from: anyObject
-	^ self new initialize: anyObject 
+from: anyObject 
+	^ self new initialize: anyObject
