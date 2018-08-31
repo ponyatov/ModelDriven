@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/28/2018 17:52",
+	"super" : "TestCase",
+	"category" : "ModelDriven-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MIntegerTest",
+	"type" : "normal"
+}

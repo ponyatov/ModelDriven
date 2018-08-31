@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/30/2018 22:48",
+	"super" : "MObject",
+	"category" : "ModelDriven",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MContainer",
+	"type" : "normal"
+}

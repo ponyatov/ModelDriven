@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/31/2018 15:23",
+	"super" : "SystemWindow",
+	"category" : "ModelDriven-GUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "VWindow",
+	"type" : "normal"
+}
