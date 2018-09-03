@@ -1,0 +1,2 @@
+Personal Planning System component
+компонент персонального планировщика

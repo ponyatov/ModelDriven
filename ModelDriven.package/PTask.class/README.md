@@ -1,0 +1,2 @@
+generic task
+задача
