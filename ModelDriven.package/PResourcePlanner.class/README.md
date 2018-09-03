@@ -1,0 +1,2 @@
+Resource Planner
+планировщик ресурсов

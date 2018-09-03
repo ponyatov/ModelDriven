@@ -1,4 +1,10 @@
 SystemOrganization addCategory: #ModelDriven!
+SystemOrganization addCategory: 'ModelDriven-Android'!
+SystemOrganization addCategory: 'ModelDriven-Cpp'!
 SystemOrganization addCategory: 'ModelDriven-GUI'!
+SystemOrganization addCategory: 'ModelDriven-Java'!
+SystemOrganization addCategory: 'ModelDriven-Meta'!
+SystemOrganization addCategory: 'ModelDriven-OS'!
 SystemOrganization addCategory: 'ModelDriven-PPS'!
 SystemOrganization addCategory: 'ModelDriven-Test'!
+SystemOrganization addCategory: 'ModelDriven-Web'!
