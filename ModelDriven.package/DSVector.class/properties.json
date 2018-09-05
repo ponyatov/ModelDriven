@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/5/2018 16:47",
+	"super" : "MContainer",
+	"category" : "ModelDriven-DSP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSVector",
+	"type" : "normal"
+}

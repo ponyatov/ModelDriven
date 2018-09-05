@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/5/2018 16:48",
+	"super" : "MNumber",
+	"category" : "ModelDriven-DSP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DSScalar",
+	"type" : "normal"
+}
