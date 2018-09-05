@@ -1,5 +1,4 @@
 printing
 dump
-	" dump object in full tree text form "
-	" temporary head-only "
-	^ self head
+	" start tree dump in a recursion "
+	^ self dump:0 prefix: ''
