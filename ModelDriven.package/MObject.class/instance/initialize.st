@@ -13,3 +13,5 @@ initialize
 	" empty nested elements vector "	
 	" пустой вектор вложенных элементов  "	
 	nest := OrderedCollection new.
+	" register self in object pool "
+	MObject pool add: self.

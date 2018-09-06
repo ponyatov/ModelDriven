@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/6/2018 13:25",
+	"super" : "MinLinux",
+	"category" : "ModelDriven-UNIX",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MinHalk",
+	"type" : "normal"
+}

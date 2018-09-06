@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/6/2018 11:19",
+	"super" : "MemLinux",
+	"category" : "ModelDriven-UNIX",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MOpenWrt",
+	"type" : "normal"
+}

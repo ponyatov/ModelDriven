@@ -4,6 +4,7 @@ SystemOrganization addCategory: 'ModelDriven-Cpp'!
 SystemOrganization addCategory: 'ModelDriven-DSP'!
 SystemOrganization addCategory: 'ModelDriven-GUI'!
 SystemOrganization addCategory: 'ModelDriven-Java'!
+SystemOrganization addCategory: 'ModelDriven-Make'!
 SystemOrganization addCategory: 'ModelDriven-Meta'!
 SystemOrganization addCategory: 'ModelDriven-PPS'!
 SystemOrganization addCategory: 'ModelDriven-Test'!

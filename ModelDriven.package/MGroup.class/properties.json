@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/6/2018 17:28",
+	"super" : "MContainer",
+	"category" : "ModelDriven-Meta",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MGroup",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/6/2018 16:54",
+	"super" : "MLanguage",
+	"category" : "ModelDriven-Make",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LMakefile",
+	"type" : "normal"
+}

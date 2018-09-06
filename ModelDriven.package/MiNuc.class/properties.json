@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/6/2018 15:02",
+	"super" : "MBuildroot",
+	"category" : "ModelDriven-UNIX",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MiNuc",
+	"type" : "normal"
+}

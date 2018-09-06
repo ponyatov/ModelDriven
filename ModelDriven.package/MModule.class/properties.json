@@ -2,11 +2,14 @@
 	"commentStamp" : "DmitryPonyatov 9/3/2018 16:20",
 	"super" : "MObject",
 	"category" : "ModelDriven-Meta",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"dir"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"dir"
+		"dir",
+		"mk"
 	],
 	"name" : "MModule",
 	"type" : "normal"
