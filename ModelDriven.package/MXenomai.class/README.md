@@ -1,3 +1,3 @@
 Xenomai 
 
-Hart-RT supervisor for Linux
+Hard-RT supervisor for Linux

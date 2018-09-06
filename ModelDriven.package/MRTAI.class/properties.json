@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 9/6/2018 11:11",
+	"commentStamp" : "DmitryPonyatov 9/6/2018 11:10",
 	"super" : "MADEOS",
 	"category" : "ModelDriven-UNIX",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "MXenomai",
+	"name" : "MRTAI",
 	"type" : "normal"
 }
