@@ -1,1 +1,2 @@
-Operating System
+target Operating System
+целевая операционная система

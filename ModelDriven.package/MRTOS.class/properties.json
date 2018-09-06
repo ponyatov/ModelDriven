@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 9/6/2018 10:40",
-	"super" : "MObject",
+	"commentStamp" : "DmitryPonyatov 9/6/2018 10:57",
+	"super" : "MOS",
 	"category" : "ModelDriven-Meta",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "MOS",
+	"name" : "MRTOS",
 	"type" : "normal"
 }

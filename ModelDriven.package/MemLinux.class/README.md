@@ -1,0 +1,3 @@
+embedded Linux
+
+встраиваемый Linux
