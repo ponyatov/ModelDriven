@@ -3,4 +3,8 @@ gen
 	" fill makefile contents "
 	self genMakefile.
 	" autogen target code "
-	mk gen
+	mk gen.
+	" write masks "
+	self genGitIgnore.
+	" generate configs "
+	self genConfig .

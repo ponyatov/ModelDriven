@@ -8,7 +8,8 @@
 	"instvars" : [
 		"dir",
 		"gz",
-		"mk"
+		"mk",
+		"gitignore"
 	],
 	"name" : "MBuildroot",
 	"type" : "normal"
