@@ -1,3 +1,3 @@
-code generation
+config generation
 config_busybox
 	^ ''

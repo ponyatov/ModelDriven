@@ -1,4 +1,4 @@
-code generation
+config generation
 config_ulibc_br
 	| lf s |
 	lf := String lf.

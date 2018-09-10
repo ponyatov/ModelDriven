@@ -10,7 +10,8 @@ genMakefile
 	vars push: ( ( LMakeVar  from: 'GZ' ) push: '$(CWD)/gz' asMObject ).
 	vars push: ( ( LMakeVar  from: 'SRC' ) push: '$(CWD)/src' asMObject ).
 	vars push: ( ( LMakeVar  from: 'TMP' ) push: '$(CWD)/tmp' asMObject ).
-	vars push: (  lf , 'dirs: $(GZ)' , lf , '$(GZ):' , lf , tab , 'ln -fs ~/gz $@') asMObject.
+	vars push: (  lf , 'dirs: $(GZ)',lf,tab,'mkdir -p files' , lf ) asMObject.
+	vars push: ('$(GZ):' , lf , tab , 'ln -fs ~/gz $@') asMObject.
 	" commands "
 	cmds := MMakeSection from: 'commands'. mk at: 'cmds' put: cmds.
 	cmds push: 'WGET = wget -c --no-check-certificate ' asMObject .

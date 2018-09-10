@@ -1,3 +1,3 @@
 code generation
 hostname
-	^ self val asLowercase 
+	^ self config_hw , '_' , self val asLowercase

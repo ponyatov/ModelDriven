@@ -1,4 +1,4 @@
-code generation
+config generation
 config_busybox_br
 	| lf s |
 	lf := String lf.

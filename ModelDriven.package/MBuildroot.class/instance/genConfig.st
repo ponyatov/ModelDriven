@@ -1,4 +1,4 @@
-code generation
+config generation
 genConfig
 	| lf modelheader |
 	lf := String lf.

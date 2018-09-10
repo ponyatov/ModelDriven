@@ -1,1 +1,3 @@
-Active obejcts has execution semantics
+Active objects has execution semantics
+
+активные объекты имеющие семантику выполнения

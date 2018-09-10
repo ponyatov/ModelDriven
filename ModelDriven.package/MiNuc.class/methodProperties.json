@@ -1,6 +1,8 @@
 {
 	"instance" : {
-		"config_target" : "DmitryPonyatov 9/10/2018 11:29"
+		"config_kernel_hw" : "DmitryPonyatov 9/10/2018 17:25",
+		"config_target" : "DmitryPonyatov 9/10/2018 11:29",
+		"config_hw" : "DmitryPonyatov 9/10/2018 16:37"
 	},
 	"class" : { }
 }

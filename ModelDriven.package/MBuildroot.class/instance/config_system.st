@@ -1,4 +1,4 @@
-code generation
+config generation
 config_system
 	| lf s |
 	lf := String lf.

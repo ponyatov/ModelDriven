@@ -1,6 +1,6 @@
 {
 	"instance" : {
-		"hostname" : "DmitryPonyatov 9/10/2018 11:35",
+		"hostname" : "DmitryPonyatov 9/10/2018 16:41",
 		"genGitIgnore" : "DmitryPonyatov 9/7/2018 15:45",
 		"config_busybox_br" : "DmitryPonyatov 9/10/2018 11:42",
 		"buildroot_gz" : "DmitryPonyatov 9/7/2018 15:39",
@@ -19,11 +19,12 @@
 		"config_ulibc" : "DmitryPonyatov 9/10/2018 10:37",
 		"initialize:" : "DmitryPonyatov 9/7/2018 15:17",
 		"config_busybox" : "DmitryPonyatov 9/10/2018 11:41",
+		"config_kernel_net" : "DmitryPonyatov 9/10/2018 17:53",
 		"gen_gvimhelper" : "DmitryPonyatov 9/10/2018 14:35",
 		"config_isSecure" : "DmitryPonyatov 9/10/2018 10:53",
 		"buildroot" : "DmitryPonyatov 9/7/2018 15:37",
-		"genMakefile" : "DmitryPonyatov 9/10/2018 14:46",
-		"config_kernel" : "DmitryPonyatov 9/10/2018 11:34"
+		"genMakefile" : "DmitryPonyatov 9/10/2018 16:14",
+		"config_kernel" : "DmitryPonyatov 9/10/2018 17:43"
 	},
 	"class" : { }
 }

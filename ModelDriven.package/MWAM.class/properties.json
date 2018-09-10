@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 9/10/2018 16:17",
-	"super" : "MObject",
+	"commentStamp" : "DmitryPonyatov 9/10/2018 16:32",
+	"super" : "MVM",
 	"category" : "ModelDriven-Logic",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "MProlog",
+	"name" : "MWAM",
 	"type" : "normal"
 }
