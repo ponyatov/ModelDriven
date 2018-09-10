@@ -32,7 +32,7 @@ genMakefile
 	build push: '.PHONY: build' asMObject .
 	brconfig := self buildroot , '/.config'.
 	build push: ( 'build: ' , brconfig ) asMObject .
-	build push: ( tab , 'cd ' , self buildroot , ' ; make menuconfig') asMObject .
+	build push: ( tab , 'cd ' , self buildroot , ' ; make menuconfig && make') asMObject .
 	build push: ( brconfig , ' : buildroot.config ' , brsrc ) asMObject .
 	build push: ( tab , 'cd ' , self buildroot , ' ; make allnoconfig' , lf , tab , 'cat $< >> $@' ) asMObject.
 	" clean "

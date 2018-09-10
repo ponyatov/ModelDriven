@@ -1,3 +1,3 @@
 code generation
 hostname
-	^ 'icbcom'
+	^ self val asLowercase 

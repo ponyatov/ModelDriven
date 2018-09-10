@@ -1,4 +1,6 @@
 {
-	"instance" : { },
+	"instance" : {
+		"gen_comment_line:" : "DmitryPonyatov 9/10/2018 14:31"
+	},
 	"class" : { }
 }

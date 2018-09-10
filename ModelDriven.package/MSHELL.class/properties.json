@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/10/2018 14:21",
+	"super" : "MLanguage",
+	"category" : "ModelDriven-UNIX",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MSHELL",
+	"type" : "normal"
+}
