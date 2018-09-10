@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/10/2018 15:04",
+	"super" : "MObject",
+	"category" : "ModelDriven-Logic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"file"
+	],
+	"name" : "MProlog",
+	"type" : "normal"
+}

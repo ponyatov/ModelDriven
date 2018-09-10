@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/10/2018 15:05",
+	"super" : "MObject",
+	"category" : "ModelDriven-Forth",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"file"
+	],
+	"name" : "MForth",
+	"type" : "normal"
+}

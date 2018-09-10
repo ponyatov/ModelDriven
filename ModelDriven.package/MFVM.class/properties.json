@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/10/2018 15:09",
+	"super" : "MVM",
+	"category" : "ModelDriven-Forth",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MFVM",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/10/2018 15:08",
+	"super" : "MActive",
+	"category" : "ModelDriven",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MCommand",
+	"type" : "normal"
+}
