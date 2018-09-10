@@ -37,4 +37,4 @@ genMakefile
 	build push: ( tab , 'cd ' , self buildroot , ' ; make allnoconfig' , lf , tab , 'cat $< >> $@' ) asMObject.
 	" clean "
 	clean := MMakeSection from: 'clean'. mk at: 'clean' put: clean.
-	clean push: ( '.PHONY: clean' , lf , 'clean:' , lf , tab , 'cd ' , self buildroot , ' ; make distclean' ) asMObject .
+	clean push: ( '.PHONY: clean' , lf , 'clean:' , lf , tab , 'cd ' , self buildroot , ' ; make clean' ) asMObject .

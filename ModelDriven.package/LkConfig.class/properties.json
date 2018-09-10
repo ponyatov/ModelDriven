@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/10/2018 10:42",
+	"super" : "LMakefile",
+	"category" : "ModelDriven-UNIX",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LkConfig",
+	"type" : "normal"
+}
