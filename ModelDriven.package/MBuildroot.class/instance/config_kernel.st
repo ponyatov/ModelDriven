@@ -12,10 +12,7 @@ config_kernel
 	#( #BZIP2 #LZMA #XZ #LZO #LZ4 ) do: [ :x | s := s,'CONFIG_RD_',x,'=n',lf ].
 	s := s,lf,'CONFIG_CC_OPTIMIZE_FOR_SIZE=y',lf,'CONFIG_EMBEDDED=n',lf,'CONFIG_EXPERT=n',lf.
 	s := s,lf,'CONFIG_MODULES=y',lf,'CONFIG_MODULE_UNLOAD=y',lf,lf.
-	s := s,'# block layer ',lf,lf.
-	s := s,'CONFIG_BLOCK=y',lf,'CONFIG_LBDAF=y',lf,'CONFIG_BLK_DEV_BSG=y',lf,'CONFIG_BLK_DEBUG_FS=n',lf.
-	s := s,'CONFIG_BLK_CMDLINE_PARSER=y',lf,'CONFIG_PARTITION_ADVANCED=y',lf,'CONFIG_CMDLINE_PARTITION=y',lf.
-	s := s,'CONFIG_MSDOS_PARTITION=n',lf,'CONFIG_EFI_PARTITION=n',lf,lf.
+	s := s, self config_kernel_block.
 	s := s, self config_kernel_hw.
 	s := s,'# kernel features',lf,lf.
 	s := s,'VMSPLIT_3G=y',lf,'CONFIG_PREEMPT_VOLUNTARY=y',lf,'HZ_100=y',lf,'CONFIG_AEABI=y',lf.
@@ -26,4 +23,10 @@ config_kernel
 	s := s,'# power management',lf,lf.
 	s := s,'CONFIG_SUSPEND=n',lf,'CONFIG_PM=n',lf,'CONFIG_CPU_FREQ=n',lf,'CONFIG_CPU_IDLE=n',lf,lf.
 	s := s, self config_kernel_net.
+	s := s,'# device drivers',lf,lf.
+	s := s,'CONFIG_DMA_CMA=y',lf,lf.
+	s := s, self config_kernel_udev .
+	s := s, self config_kernel_mtd .
+	s := s, self config_kernel_scsi .
+	s := s, self config_kernel_ata .
 	^ s
