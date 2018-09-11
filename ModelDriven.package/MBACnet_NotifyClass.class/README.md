@@ -1,0 +1,1 @@
+Класс уведомления (Notification Class)

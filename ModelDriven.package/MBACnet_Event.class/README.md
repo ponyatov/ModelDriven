@@ -1,0 +1,1 @@
+Регистрация события (Event Enrollment)

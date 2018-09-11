@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/11/2018 13:49",
+	"super" : "MBACnet",
+	"category" : "ModelDriven-PLC-BACnet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MBACnet_Averaging",
+	"type" : "normal"
+}

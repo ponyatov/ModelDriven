@@ -1,1 +1,1 @@
-MODBUS RTU
+MODBUS RTU (remote terminal unit)

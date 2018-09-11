@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "DmitryPonyatov 9/11/2018 10:59",
 	"super" : "MMODBUS_Type",
-	"category" : "ModelDriven-PLC",
+	"category" : "ModelDriven-PLC-MODBUS",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

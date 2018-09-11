@@ -9,6 +9,8 @@ SystemOrganization addCategory: 'ModelDriven-Logic'!
 SystemOrganization addCategory: 'ModelDriven-Make'!
 SystemOrganization addCategory: 'ModelDriven-Meta'!
 SystemOrganization addCategory: 'ModelDriven-PLC'!
+SystemOrganization addCategory: 'ModelDriven-PLC-BACnet'!
+SystemOrganization addCategory: 'ModelDriven-PLC-MODBUS'!
 SystemOrganization addCategory: 'ModelDriven-PPS'!
 SystemOrganization addCategory: 'ModelDriven-Test'!
 SystemOrganization addCategory: 'ModelDriven-UNIX'!
