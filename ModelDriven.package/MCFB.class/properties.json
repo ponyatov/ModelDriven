@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 9/11/2018 10:41",
-	"super" : "MIEC61131",
+	"commentStamp" : "DmitryPonyatov 9/11/2018 14:37",
+	"super" : "MIEC61499",
 	"category" : "ModelDriven-PLC",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "MIL",
+	"name" : "MCFB",
 	"type" : "normal"
 }

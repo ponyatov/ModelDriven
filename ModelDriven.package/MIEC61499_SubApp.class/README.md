@@ -1,0 +1,1 @@
+Subapplication: Its functionality is also defined as a function block network. In contrast to CFBs, subapplications can be distributed.
