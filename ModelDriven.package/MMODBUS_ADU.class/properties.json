@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/11/2018 10:51",
+	"super" : "MMODBUS_DataUnit",
+	"category" : "ModelDriven-PLC",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MMODBUS_ADU",
+	"type" : "normal"
+}

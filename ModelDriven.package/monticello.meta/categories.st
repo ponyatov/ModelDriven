@@ -8,6 +8,7 @@ SystemOrganization addCategory: 'ModelDriven-Java'!
 SystemOrganization addCategory: 'ModelDriven-Logic'!
 SystemOrganization addCategory: 'ModelDriven-Make'!
 SystemOrganization addCategory: 'ModelDriven-Meta'!
+SystemOrganization addCategory: 'ModelDriven-PLC'!
 SystemOrganization addCategory: 'ModelDriven-PPS'!
 SystemOrganization addCategory: 'ModelDriven-Test'!
 SystemOrganization addCategory: 'ModelDriven-UNIX'!

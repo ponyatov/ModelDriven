@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/11/2018 10:40",
+	"super" : "MLanguage",
+	"category" : "ModelDriven-PLC",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MFBD",
+	"type" : "normal"
+}
