@@ -3,6 +3,7 @@ config_kernel_hw
 	| lf s |
 	lf := String lf.
 	s := super config_kernel_hw .
-"	s := s,'CONFIG_ARCH_W90X900=y',lf,'CONFIG_VFP=n',lf."
-"	s := s,'CONFIG_MACH_W90P910EVB=y',lf,'CONFIG_MACH_W90P950EVB=n',lf,'CONFIG_MACH_W90N960EVB=n',lf,lf."
+	s := s, 'CONFIG_ARCH_NUC970=y',lf,'CONFIG_CPU_NUC970=y',lf.
+	s := s, 'CONFIG_BOARD_TOMATO=y',lf,'CONFIG_INITRAMFS_SOURCE=""',lf,'CONFIG_VFP=n',lf.
+	s := s,lf.
 	^ s

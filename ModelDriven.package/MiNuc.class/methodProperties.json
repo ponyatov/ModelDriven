@@ -1,14 +1,15 @@
 {
 	"instance" : {
-		"config_kernel_hw" : "DmitryPonyatov 9/12/2018 15:14",
-		"genGitIgnore" : "DmitryPonyatov 9/12/2018 15:11",
-		"custom_kernel_path" : "DmitryPonyatov 9/12/2018 15:09",
+		"config_kernel_hw" : "DmitryPonyatov 9/12/2018 15:45",
 		"config_target" : "DmitryPonyatov 9/10/2018 11:29",
-		"config_hw" : "DmitryPonyatov 9/10/2018 16:37",
-		"config_kernel_defconfig" : "DmitryPonyatov 9/12/2018 15:19",
 		"genMakefile" : "DmitryPonyatov 9/12/2018 15:09",
-		"kernel_build_command" : "DmitryPonyatov 9/12/2018 15:21",
-		"config_kernel" : "DmitryPonyatov 9/12/2018 15:12"
+		"genGitIgnore" : "DmitryPonyatov 9/12/2018 15:11",
+		"config_kernel" : "DmitryPonyatov 9/12/2018 15:34",
+		"config_kernel_wifi" : "DmitryPonyatov 9/12/2018 16:21",
+		"config_hw" : "DmitryPonyatov 9/10/2018 16:37",
+		"custom_kernel_path" : "DmitryPonyatov 9/12/2018 15:09",
+		"kernel_build_command" : "DmitryPonyatov 9/12/2018 16:39",
+		"config_kernel_defconfig" : "DmitryPonyatov 9/12/2018 15:19"
 	},
 	"class" : { }
 }
