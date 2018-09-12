@@ -5,12 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"dir",
-		"gz",
-		"mk",
-		"gitignore"
-	],
+	"instvars" : [ ],
 	"name" : "MBuildroot",
 	"type" : "normal"
 }

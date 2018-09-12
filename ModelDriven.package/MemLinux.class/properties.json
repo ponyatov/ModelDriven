@@ -5,7 +5,21 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"dir",
+		"gz",
+		"mk",
+		"gitignore",
+		"dirs",
+		"cmds",
+		"down",
+		"rules",
+		"build",
+		"kernel",
+		"clean",
+		"src",
+		"vars"
+	],
 	"name" : "MemLinux",
 	"type" : "normal"
 }
