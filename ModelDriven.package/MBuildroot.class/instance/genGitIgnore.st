@@ -1,9 +1,8 @@
 code generation
 genGitIgnore
-	| lf |
+	| lf s |
 	lf := String lf.
-	( dir / '.gitignore' ) writeStream
-		nextPutAll: ( '*~' ,  lf,  '*.swp' ,  lf ,  lf ) ;
-		nextPutAll: ( 'gz' ,  lf , 'src' ,  lf , 'tmp' ,  lf , lf ) ;
-		nextPutAll: ( self buildroot ) ;
-	close.
+	s := '*~' ,  lf,  '*.swp' ,  lf ,  lf .
+	s := s, 'gz' ,  lf , 'src' ,  lf , 'tmp' ,  lf , lf .
+	s := s, self buildroot , lf.
+	^ s

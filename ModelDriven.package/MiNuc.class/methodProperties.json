@@ -1,8 +1,9 @@
 {
 	"instance" : {
 		"config_kernel_hw" : "DmitryPonyatov 9/11/2018 11:05",
+		"genGitIgnore" : "DmitryPonyatov 9/12/2018 12:31",
+		"genMakefile" : "DmitryPonyatov 9/12/2018 12:13",
 		"config_target" : "DmitryPonyatov 9/10/2018 11:29",
-		"genMakefile" : "DmitryPonyatov 9/12/2018 11:31",
 		"config_hw" : "DmitryPonyatov 9/10/2018 16:37"
 	},
 	"class" : { }

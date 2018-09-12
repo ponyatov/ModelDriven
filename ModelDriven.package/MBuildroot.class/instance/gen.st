@@ -5,6 +5,8 @@ gen
 	" autogen target code "
 	mk gen.
 	" write masks "
-	self genGitIgnore.
+	( dir / '.gitignore' ) writeStream
+		nextPutAll: self genGitIgnore; 
+	close.
 	" generate configs "
 	self genConfig .

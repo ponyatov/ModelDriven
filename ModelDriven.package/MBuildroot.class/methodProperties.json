@@ -2,7 +2,7 @@
 	"instance" : {
 		"hostname" : "DmitryPonyatov 9/10/2018 16:41",
 		"config_kernel_udev" : "DmitryPonyatov 9/10/2018 18:04",
-		"genGitIgnore" : "DmitryPonyatov 9/7/2018 15:45",
+		"genGitIgnore" : "DmitryPonyatov 9/12/2018 12:31",
 		"config_busybox_br" : "DmitryPonyatov 9/10/2018 11:42",
 		"buildroot_gz" : "DmitryPonyatov 9/7/2018 15:39",
 		"config_build" : "DmitryPonyatov 9/10/2018 11:32",
@@ -13,7 +13,7 @@
 		"config_kernel_mtd" : "DmitryPonyatov 9/10/2018 18:03",
 		"config_filesystem" : "DmitryPonyatov 9/10/2018 11:45",
 		"config_kernel_ata" : "DmitryPonyatov 9/10/2018 18:14",
-		"gen" : "DmitryPonyatov 9/7/2018 16:03",
+		"gen" : "DmitryPonyatov 9/12/2018 12:30",
 		"genConfig" : "DmitryPonyatov 9/10/2018 14:28",
 		"config_kernel_br" : "DmitryPonyatov 9/10/2018 14:55",
 		"config_SecurityHardening" : "DmitryPonyatov 9/10/2018 10:56",
