@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/12/2018 10:32",
+	"super" : "MARM",
+	"category" : "ModelDriven-HW",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MCortexM",
+	"type" : "normal"
+}

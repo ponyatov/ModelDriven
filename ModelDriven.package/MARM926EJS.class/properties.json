@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/12/2018 10:32",
+	"super" : "MCPU",
+	"category" : "ModelDriven-HW",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MARM926EJS",
+	"type" : "normal"
+}

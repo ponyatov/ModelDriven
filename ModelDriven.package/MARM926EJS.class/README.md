@@ -1,0 +1,1 @@
+MARM926EJ-S ARM9 SoC core

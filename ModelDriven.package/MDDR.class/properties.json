@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/12/2018 10:33",
+	"super" : "MRAM",
+	"category" : "ModelDriven-HW",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MDDR",
+	"type" : "normal"
+}

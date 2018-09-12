@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/12/2018 10:30",
+	"super" : "MObject",
+	"category" : "ModelDriven-HW",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MhwSoC",
+	"type" : "normal"
+}
