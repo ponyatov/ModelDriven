@@ -1,7 +1,7 @@
 code generation
 genMakefile
 	" (re)fill makefile parameters "
-	| vars cmds down rules lf tab src brgz brsrc build brconfig clean |
+	| vars cmds down rules lf tab src brgz brsrc build brconfig clean kernel |
 	lf := String lf.
 	tab := String tab.
 	" directories "
@@ -35,7 +35,10 @@ genMakefile
 	build push: ( 'build: ' , brconfig ) asMObject .
 	build push: ( tab , 'cd ' , self buildroot , ' ; make menuconfig && make') asMObject .
 	build push: ( brconfig , ' : buildroot.config ' , brsrc ) asMObject .
-	build push: ( tab , 'cd ' , self buildroot , ' ; make allnoconfig' , lf , tab , 'cat $< >> $@' ) asMObject.
+	build push: ( tab , 'cd ' , self buildroot , ' ; make allnoconfig ' , lf , tab , 'cat $< >> $@' ) asMObject.
+	" kernel "
+	kernel := MMakeSection from: 'kernel'. mk at: 'kernel' put: kernel.
+	kernel push: ( '.PHONY: kernel' , lf , 'kernel: kernel.config' , lf , tab , self kernel_build_command , lf ) asMObject .
 	" clean "
 	clean := MMakeSection from: 'clean'. mk at: 'clean' put: clean.
 	clean push: ( '.PHONY: clean' , lf , 'clean:' , lf , tab , 'cd ' , self buildroot , ' ; make clean' ) asMObject .

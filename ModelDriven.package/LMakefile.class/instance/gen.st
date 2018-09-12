@@ -11,5 +11,6 @@ gen
 	stream nextPutAll: ( ( self at: 'rules' ) gen  ).
 	stream nextPutAll: ( ( self at: 'src' ) gen  ).
 	stream nextPutAll: ( ( self at: 'build' ) gen  ).
+	stream nextPutAll: ( ( self at: 'kernel' ) gen  ).
 	stream nextPutAll: ( ( self at: 'clean' ) gen  ).
 	stream close.
