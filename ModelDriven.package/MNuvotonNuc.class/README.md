@@ -1,1 +1,1 @@
-Nuvoton Nuc 9xx
+Nuvoton Nuc 9xx ARM9 SoC
