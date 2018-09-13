@@ -1,5 +1,5 @@
 config generation
-config_build
+config_buildroot_build
 	| lf s |
 	lf := String lf.
 	s := lf, '# Build ', lf,lf.

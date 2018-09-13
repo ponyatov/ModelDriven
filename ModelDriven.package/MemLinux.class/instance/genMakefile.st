@@ -29,8 +29,8 @@ genMakefile
 	dirs push: ( ( LMakeVar  from: 'SRC' ) push: '$(CWD)/src' asMObject ).
 	dirs push: ( ( LMakeVar  from: 'TMP' ) push: '$(CWD)/tmp' asMObject ).
 	
-	dirs push: ( ( LMakeVar  from: 'HOST' ) push: '$(CWD)/host' asMObject ).
-	dirs push: ( ( LMakeVar  from: 'ROOT' ) push: '$(CWD)/root' asMObject ).
+	dirs push: ( ( LMakeVar  from: 'PFX' ) push: '$(CWD)/host' asMObject ).
+	dirs push: ( ( LMakeVar  from: 'ROOT' ) push: ( '$(CWD)/' , self hostname ) asMObject ).
 	
 	dirs push: ( lf,'dirs: $(GZ) $(SRC) $(TMP)' , lf ) asMObject .
 	dirs push: ( '$(GZ):',lf,tab,'ln -fs ~/gz $@' , lf ) asMObject .

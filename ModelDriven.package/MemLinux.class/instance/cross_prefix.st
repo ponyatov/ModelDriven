@@ -1,3 +1,3 @@
 cross-compiler
-prefix
+cross_prefix
 	^ '/tmp/' , self config_toolchain

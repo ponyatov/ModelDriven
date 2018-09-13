@@ -1,3 +1,3 @@
 cross-compiler
-config_toolchain
+cross_target
 	^ 'arm-linux-uclibcgnueabi'
