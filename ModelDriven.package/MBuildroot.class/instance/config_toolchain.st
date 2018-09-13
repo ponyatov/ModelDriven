@@ -1,3 +1,3 @@
 cross-compiler
 config_toolchain
-	^ 'arm-linux-uclibcgnueabi'
+	^ 'arm-buildroot-linux-uclibcgnueabi'

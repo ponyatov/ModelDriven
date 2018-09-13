@@ -1,6 +1,8 @@
 {
 	"instance" : {
-		"initialize" : "DmitryPonyatov 9/13/2018 10:33"
+		"initialize" : "DmitryPonyatov 9/13/2018 11:11",
+		"make_kernel" : "DmitryPonyatov 9/13/2018 12:34",
+		"git_archive" : "DmitryPonyatov 9/13/2018 13:21"
 	},
 	"class" : { }
 }

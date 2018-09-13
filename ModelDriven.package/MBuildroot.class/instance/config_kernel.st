@@ -4,7 +4,7 @@ config_kernel
 	lf := String lf.
 	ss := '# General setup ',lf,lf.
 	s := ''.
-	ss := ss, 'CONFIG_CROSS_COMPILE="',self config_toolchain,'"',lf,lf.
+	ss := ss, 'CONFIG_CROSS_COMPILE="',self config_toolchain,'-"',lf,lf.
 	ss := ss,'CONFIG_LOCALVERSION="-icbcom-',self hostname ,'"',lf.
 	ss := ss,'CONFIG_DEFAULT_HOSTNAME="',self hostname ,'"',lf,lf.
 	ss := ss,'CONFIG_SWAP=n',lf.
@@ -34,5 +34,6 @@ config_kernel
 	s := s, self config_kernel_mtd .
 	s := s, self config_kernel_scsi .
 	s := s, self config_kernel_ata .
-	ss := ss,'## debug',lf,'CONFIG_PRINTK_TIME=y',lf.
+	ss := ss, self config_kernel_usb .
+	ss := ss,'## debug',lf,lf,'CONFIG_PRINTK_TIME=y',lf,lf.
 	^ ss
