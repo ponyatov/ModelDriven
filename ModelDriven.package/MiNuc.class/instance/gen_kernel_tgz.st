@@ -1,5 +1,5 @@
-code generation
+firmware
 gen_kernel_tgz
 	| ver |
-	ver := '3.18.122'.
+	ver := self linux_ver.
 	^ 'git archive --format=tar.gz -o ../gz/linux-',ver,'.tar.gz --prefix=linux-',ver,'/ ',ver

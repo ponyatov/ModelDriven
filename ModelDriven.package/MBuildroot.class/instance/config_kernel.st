@@ -5,7 +5,7 @@ config_kernel
 	ss := '# General setup ',lf,lf.
 	s := ''.
 	ss := ss, 'CONFIG_CROSS_COMPILE="',self config_toolchain,'-"',lf,lf.
-	ss := ss,'CONFIG_LOCALVERSION="-icbcom-',self hostname ,'"',lf.
+	ss := ss,'CONFIG_LOCALVERSION="-icbcom-',self config_hw ,'"',lf.
 	ss := ss,'CONFIG_DEFAULT_HOSTNAME="',self hostname ,'"',lf,lf.
 	ss := ss,'CONFIG_SWAP=n',lf.
 	s := s, 'CONFIG_SYSVIPC=n',lf,'CONFIG_CROSS_MEMORY_ATTACH=n',lf.
@@ -35,5 +35,7 @@ config_kernel
 	s := s, self config_kernel_scsi .
 	s := s, self config_kernel_ata .
 	ss := ss, self config_kernel_usb .
-	ss := ss,'## debug',lf,lf,'CONFIG_PRINTK_TIME=y',lf,lf.
+	ss := ss, self config_kernel_gpio .
+	ss := ss, self config_kernel_serial .
+	ss := ss, self config_kernel_debug .
 	^ ss
