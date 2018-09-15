@@ -1,3 +1,7 @@
-as yet unclassified
+streaming
 << anObject
-	self at: ( anObject val ) put: anObject ; yourself
+	| key |
+	key := anObject val.
+	key ifNil: [  key := anObject tag ].
+	self at: key put: anObject.
+	^ self

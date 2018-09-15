@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/15/2018 22:21",
+	"super" : "MObject",
+	"category" : "ModelDriven-OKernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PObject",
+	"type" : "normal"
+}

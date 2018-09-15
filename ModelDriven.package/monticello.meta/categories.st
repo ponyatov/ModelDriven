@@ -10,6 +10,7 @@ SystemOrganization addCategory: 'ModelDriven-Java'!
 SystemOrganization addCategory: 'ModelDriven-Logic'!
 SystemOrganization addCategory: 'ModelDriven-Make'!
 SystemOrganization addCategory: 'ModelDriven-Meta'!
+SystemOrganization addCategory: 'ModelDriven-OKernel'!
 SystemOrganization addCategory: 'ModelDriven-PLC'!
 SystemOrganization addCategory: 'ModelDriven-PLC-BACnet'!
 SystemOrganization addCategory: 'ModelDriven-PLC-MODBUS'!

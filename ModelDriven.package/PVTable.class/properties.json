@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/15/2018 22:24",
+	"super" : "MObject",
+	"category" : "ModelDriven-OKernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"method"
+	],
+	"name" : "PVTable",
+	"type" : "normal"
+}
