@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/17/2018 15:01",
+	"super" : "MGoogleMySQL",
+	"category" : "ModelDriven-PPS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MPPSdb",
+	"type" : "normal"
+}

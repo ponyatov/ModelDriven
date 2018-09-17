@@ -1,0 +1,3 @@
+hardware
+arch
+	^ 'i386'

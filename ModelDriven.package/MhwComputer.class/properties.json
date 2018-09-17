@@ -5,7 +5,10 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"arch",
+		"cpu"
+	],
 	"name" : "MhwComputer",
 	"type" : "normal"
 }

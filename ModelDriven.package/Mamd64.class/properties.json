@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "DmitryPonyatov 9/17/2018 16:39",
-	"super" : "MhwSoC",
+	"commentStamp" : "DmitryPonyatov 9/17/2018 16:37",
+	"super" : "Mi386",
 	"category" : "ModelDriven-HW",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "MNuvotonNuc",
+	"name" : "Mamd64",
 	"type" : "normal"
 }

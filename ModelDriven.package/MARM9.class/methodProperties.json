@@ -1,4 +1,6 @@
 {
-	"instance" : { },
+	"instance" : {
+		"qemu_run" : "DmitryPonyatov 9/17/2018 16:36"
+	},
 	"class" : { }
 }

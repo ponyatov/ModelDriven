@@ -1,6 +1,7 @@
 {
 	"instance" : {
 		"initialize" : "DmitryPonyatov 9/13/2018 11:11",
+		"uboot_env" : "DmitryPonyatov 9/17/2018 13:11",
 		"make_kernel" : "DmitryPonyatov 9/13/2018 12:34",
 		"git_archive" : "DmitryPonyatov 9/13/2018 13:21"
 	},
