@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/18/2018 12:14",
+	"super" : "Mbootloader",
+	"category" : "ModelDriven-UNIX",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Muboot",
+	"type" : "normal"
+}

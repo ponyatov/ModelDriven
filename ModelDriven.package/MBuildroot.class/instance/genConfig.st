@@ -5,13 +5,7 @@ genConfig
 	modelheader := LkConfig  new gen_header .
 	( dir / 'buildroot.config' ) writeStream
 		nextPutAll: modelheader;
-		nextPutAll: self config_target ;
-		nextPutAll: self config_buildroot_build ;
-		nextPutAll: self config_system ;
-		nextPutAll: self config_buildroot_kernel ;
-		nextPutAll: self config_busybox_br ;
-		nextPutAll: self config_filesystem  ;
-		nextPutAll: self config_SecurityHardening ;
+		nextPutAll: self config_buildroot;
 	close.
 	
 	( dir / 'kernel.config' ) writeStream 

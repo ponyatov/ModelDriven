@@ -1,5 +1,5 @@
 config generation
-config_SecurityHardening
+config_buildroot_secure
 	| lf s |
 	lf := String lf.
 	s := lf , '# Security Hardening' , lf , lf.

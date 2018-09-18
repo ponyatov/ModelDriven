@@ -1,5 +1,5 @@
 config generation
-config_filesystem
+config_buildroot_filesystem
 	| lf s |
 	lf := String lf.
 	s :=  lf,'# Filesystem ',lf,lf.

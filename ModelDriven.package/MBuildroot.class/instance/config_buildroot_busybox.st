@@ -1,5 +1,5 @@
 config generation
-config_busybox_br
+config_buildroot_busybox
 	| lf s |
 	lf := String lf.
 	s :=  lf,'# Busybox ',lf,lf.

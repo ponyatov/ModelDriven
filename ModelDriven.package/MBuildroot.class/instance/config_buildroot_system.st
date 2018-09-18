@@ -1,5 +1,5 @@
 config generation
-config_system
+config_buildroot_system
 	| lf s |
 	lf := String lf.
 	s := lf , '# System ', lf,lf.

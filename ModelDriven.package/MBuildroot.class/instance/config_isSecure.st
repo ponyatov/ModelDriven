@@ -1,3 +1,3 @@
 config generation
 config_isSecure
-	^ false
+	^ true
