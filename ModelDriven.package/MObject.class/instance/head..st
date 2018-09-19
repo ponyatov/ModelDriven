@@ -1,4 +1,4 @@
 printing
 head: prefix
 	" dump object in short head-only form "
-	^ prefix , '<' , tag , ':' , val asString , '>'
+	^ prefix , '<' , tag , ':' , val asString , '> @ ', ( self identityHash asString )

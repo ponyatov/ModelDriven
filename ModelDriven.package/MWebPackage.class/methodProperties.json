@@ -1,4 +1,7 @@
 {
-	"instance" : { },
+	"instance" : {
+		"initialize:" : "DmitryPonyatov 9/18/2018 14:24",
+		"gen" : "DmitryPonyatov 9/18/2018 14:40"
+	},
 	"class" : { }
 }

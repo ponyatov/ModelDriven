@@ -20,3 +20,4 @@ SystemOrganization addCategory: 'ModelDriven-PPS'!
 SystemOrganization addCategory: 'ModelDriven-Test'!
 SystemOrganization addCategory: 'ModelDriven-UNIX'!
 SystemOrganization addCategory: 'ModelDriven-Web'!
+SystemOrganization addCategory: 'ModelDriven-XML'!

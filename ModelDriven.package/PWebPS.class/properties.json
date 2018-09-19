@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/18/2018 13:48",
+	"super" : "PPSclient",
+	"category" : "ModelDriven-PPS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dir",
+		"html"
+	],
+	"name" : "PWebPS",
+	"type" : "normal"
+}

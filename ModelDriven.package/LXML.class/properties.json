@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 9/18/2018 14:18",
+	"super" : "LLanguage",
+	"category" : "ModelDriven-XML",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LXML",
+	"type" : "normal"
+}

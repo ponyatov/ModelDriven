@@ -5,5 +5,6 @@ config_kernel_hw
 	s := super config_kernel_hw .
 	s := s, 'CONFIG_ARCH_NUC970=y',lf,'CONFIG_CPU_NUC970=y',lf.
 	s := s, 'CONFIG_BOARD_TOMATO=y',lf,'CONFIG_INITRAMFS_SOURCE=""',lf,'CONFIG_VFP=n',lf.
+	s := s,'CONFIG_CPU_DCACHE_DISABLE=y',lf,lf.
 	s := s,lf.
 	^ s

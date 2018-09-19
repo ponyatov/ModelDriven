@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "DmitryPonyatov 9/11/2018 14:34",
-	"super" : "MLanguage",
+	"super" : "LLanguage",
 	"category" : "ModelDriven-PLC",
 	"classinstvars" : [ ],
 	"pools" : [ ],

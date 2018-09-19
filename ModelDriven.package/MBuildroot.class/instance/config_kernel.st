@@ -2,7 +2,7 @@ config generation
 config_kernel
 	| s lf ss |
 	lf := String lf.
-	ss := '# General setup ',lf,lf.
+	ss := lf,'# General setup ',lf,lf.
 	s := ''.
 	ss := ss, 'CONFIG_CROSS_COMPILE="',self config_toolchain,'-"',lf,lf.
 	ss := ss,'CONFIG_LOCALVERSION="-icbcom-',self config_hw ,'"',lf.

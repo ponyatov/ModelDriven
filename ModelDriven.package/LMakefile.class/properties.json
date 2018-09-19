@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "DmitryPonyatov 9/6/2018 16:54",
-	"super" : "MLanguage",
+	"super" : "LLanguage",
 	"category" : "ModelDriven-Make",
 	"classinstvars" : [ ],
 	"pools" : [ ],

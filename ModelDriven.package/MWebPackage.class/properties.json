@@ -5,7 +5,11 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"html",
+		"css",
+		"js"
+	],
 	"name" : "MWebPackage",
 	"type" : "normal"
 }

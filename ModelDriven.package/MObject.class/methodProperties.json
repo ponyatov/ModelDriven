@@ -1,9 +1,9 @@
 {
 	"instance" : {
 		"<<" : "DmitryPonyatov 9/15/2018 22:44",
-		"head:" : "DmitryPonyatov 9/6/2018 12:50",
-		"pop" : "DmitryPonyatov 9/12/2018 11:26",
+		"head:" : "DmitryPonyatov 9/18/2018 15:47",
 		"initialize" : "DmitryPonyatov 9/15/2018 22:46",
+		"pop" : "DmitryPonyatov 9/12/2018 11:26",
 		"val" : "DmitryPonyatov 8/28/2018 17:25",
 		"nest" : "DmitryPonyatov 8/28/2018 17:39",
 		"attr" : "DmitryPonyatov 8/28/2018 17:41",
@@ -11,6 +11,7 @@
 		"printString" : "DmitryPonyatov 9/6/2018 12:50",
 		"push:" : "DmitryPonyatov 9/5/2018 17:45",
 		"at:" : "DmitryPonyatov 9/6/2018 17:44",
+		"//" : "DmitryPonyatov 9/18/2018 15:41",
 		"dump:prefix:" : "DmitryPonyatov 9/5/2018 17:56",
 		"gtInspectorDump:" : "DmitryPonyatov 9/4/2018 11:22",
 		"dump" : "DmitryPonyatov 9/5/2018 17:42",

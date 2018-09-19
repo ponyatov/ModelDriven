@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "DmitryPonyatov 9/3/2018 12:18",
-	"super" : "MClike",
+	"super" : "LClike",
 	"category" : "ModelDriven-Cpp",
 	"classinstvars" : [ ],
 	"pools" : [ ],
